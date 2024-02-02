@@ -11,3 +11,4 @@ mmm
 lambo
 money
 !phone
+kandy
