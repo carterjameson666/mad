@@ -12,3 +12,4 @@ lambo
 money
 !phone
 kandy
+sell am
