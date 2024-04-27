@@ -14,3 +14,4 @@ money
 kandy
 sell am
 ye
+bottega
